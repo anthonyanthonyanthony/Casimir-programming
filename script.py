@@ -1,0 +1,1 @@
+print('The system will go down')
