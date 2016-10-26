@@ -7,5 +7,6 @@ def circumference(r):
     print('The circumference is', circ)
     
 def area(r):
+    """This is apparently a docstring"""
     surface = np.pi * r**2
     print('The surface is', surface)
