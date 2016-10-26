@@ -2,5 +2,5 @@ print('The system will go down')
 
 import test
 
-circumference(1.)
-area(1.)
+test.circumference(1)
+test.area(1)
